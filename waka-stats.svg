@@ -1,0 +1,151 @@
+<svg width="100%" viewBox="0 0 680 860" role="img" xmlns="http://www.w3.org/2000/svg">
+  <title>Waka coding stats</title>
+  <desc>Full waka readme stats in blue theme</desc>
+  <defs>
+    <style>@import url('https://fonts.googleapis.com/css2?family=Caveat:wght@400;600');</style>
+  </defs>
+
+  <rect width="680" height="860" fill="#0d1117" rx="8"/>
+
+  <!-- ── Time of day ── -->
+  <text x="24" y="34" font-family="Caveat, monospace" font-size="16" fill="#84abce" font-weight="600">I'm an Early Bird</text>
+
+  <text x="24" y="62" font-family="Caveat, monospace" font-size="15" fill="#c9d1d9">Morning</text>
+  <text x="200" y="62" font-family="Caveat, monospace" font-size="15" fill="#8b949e">676 commits</text>
+  <rect x="340" y="52" width="260" height="8" rx="0" fill="#172f45"/>
+  <rect x="340" y="52" width="26" height="8" rx="0" fill="#90CAF9"/>
+  <text x="612" y="62" font-family="Caveat, monospace" font-size="15" fill="#8b949e">09.85 %</text>
+
+  <text x="24" y="86" font-family="Caveat, monospace" font-size="15" fill="#c9d1d9">Daytime</text>
+  <text x="200" y="86" font-family="Caveat, monospace" font-size="15" fill="#8b949e">4995 commits</text>
+  <rect x="340" y="76" width="260" height="8" rx="0" fill="#172f45"/>
+  <rect x="340" y="76" width="189" height="8" rx="0" fill="#90CAF9"/>
+  <text x="612" y="86" font-family="Caveat, monospace" font-size="15" fill="#8b949e">72.76 %</text>
+
+  <text x="24" y="110" font-family="Caveat, monospace" font-size="15" fill="#c9d1d9">Evening</text>
+  <text x="200" y="110" font-family="Caveat, monospace" font-size="15" fill="#8b949e">926 commits</text>
+  <rect x="340" y="100" width="260" height="8" rx="0" fill="#172f45"/>
+  <rect x="340" y="100" width="35" height="8" rx="0" fill="#90CAF9"/>
+  <text x="612" y="110" font-family="Caveat, monospace" font-size="15" fill="#8b949e">13.49 %</text>
+
+  <text x="24" y="134" font-family="Caveat, monospace" font-size="15" fill="#c9d1d9">Night</text>
+  <text x="200" y="134" font-family="Caveat, monospace" font-size="15" fill="#8b949e">268 commits</text>
+  <rect x="340" y="124" width="260" height="8" rx="0" fill="#172f45"/>
+  <rect x="340" y="124" width="10" height="8" rx="0" fill="#90CAF9"/>
+  <text x="612" y="134" font-family="Caveat, monospace" font-size="15" fill="#8b949e">03.90 %</text>
+
+  <line x1="24" y1="154" x2="656" y2="154" stroke="#21262d" stroke-width="0.5"/>
+
+  <!-- ── Day of week ── -->
+  <text x="24" y="178" font-family="Caveat, monospace" font-size="16" fill="#84abce" font-weight="600">Most Productive on Tuesday</text>
+
+  <text x="24" y="206" font-family="Caveat, monospace" font-size="15" fill="#c9d1d9">Monday</text>
+  <text x="200" y="206" font-family="Caveat, monospace" font-size="15" fill="#8b949e">412 commits</text>
+  <rect x="340" y="196" width="260" height="8" rx="0" fill="#172f45"/>
+  <rect x="340" y="196" width="16" height="8" rx="0" fill="#90CAF9"/>
+  <text x="612" y="206" font-family="Caveat, monospace" font-size="15" fill="#8b949e">06.00 %</text>
+
+  <text x="24" y="230" font-family="Caveat, monospace" font-size="15" fill="#90CAF9">Tuesday</text>
+  <text x="200" y="230" font-family="Caveat, monospace" font-size="15" fill="#8b949e">2629 commits</text>
+  <rect x="340" y="220" width="260" height="8" rx="0" fill="#172f45"/>
+  <rect x="340" y="220" width="100" height="8" rx="0" fill="#90CAF9"/>
+  <text x="612" y="230" font-family="Caveat, monospace" font-size="15" fill="#8b949e">38.30 %</text>
+
+  <text x="24" y="254" font-family="Caveat, monospace" font-size="15" fill="#c9d1d9">Wednesday</text>
+  <text x="200" y="254" font-family="Caveat, monospace" font-size="15" fill="#8b949e">595 commits</text>
+  <rect x="340" y="244" width="260" height="8" rx="0" fill="#172f45"/>
+  <rect x="340" y="244" width="23" height="8" rx="0" fill="#90CAF9"/>
+  <text x="612" y="254" font-family="Caveat, monospace" font-size="15" fill="#8b949e">08.67 %</text>
+
+  <text x="24" y="278" font-family="Caveat, monospace" font-size="15" fill="#c9d1d9">Thursday</text>
+  <text x="200" y="278" font-family="Caveat, monospace" font-size="15" fill="#8b949e">543 commits</text>
+  <rect x="340" y="268" width="260" height="8" rx="0" fill="#172f45"/>
+  <rect x="340" y="268" width="21" height="8" rx="0" fill="#90CAF9"/>
+  <text x="612" y="278" font-family="Caveat, monospace" font-size="15" fill="#8b949e">07.91 %</text>
+
+  <text x="24" y="302" font-family="Caveat, monospace" font-size="15" fill="#c9d1d9">Friday</text>
+  <text x="200" y="302" font-family="Caveat, monospace" font-size="15" fill="#8b949e">1161 commits</text>
+  <rect x="340" y="292" width="260" height="8" rx="0" fill="#172f45"/>
+  <rect x="340" y="292" width="44" height="8" rx="0" fill="#90CAF9"/>
+  <text x="612" y="302" font-family="Caveat, monospace" font-size="15" fill="#8b949e">16.91 %</text>
+
+  <text x="24" y="326" font-family="Caveat, monospace" font-size="15" fill="#c9d1d9">Saturday</text>
+  <text x="200" y="326" font-family="Caveat, monospace" font-size="15" fill="#8b949e">1032 commits</text>
+  <rect x="340" y="316" width="260" height="8" rx="0" fill="#172f45"/>
+  <rect x="340" y="316" width="39" height="8" rx="0" fill="#90CAF9"/>
+  <text x="612" y="326" font-family="Caveat, monospace" font-size="15" fill="#8b949e">15.03 %</text>
+
+  <text x="24" y="350" font-family="Caveat, monospace" font-size="15" fill="#c9d1d9">Sunday</text>
+  <text x="200" y="350" font-family="Caveat, monospace" font-size="15" fill="#8b949e">493 commits</text>
+  <rect x="340" y="340" width="260" height="8" rx="0" fill="#172f45"/>
+  <rect x="340" y="340" width="19" height="8" rx="0" fill="#90CAF9"/>
+  <text x="612" y="350" font-family="Caveat, monospace" font-size="15" fill="#8b949e">07.18 %</text>
+
+  <line x1="24" y1="370" x2="656" y2="370" stroke="#21262d" stroke-width="0.5"/>
+
+  <!-- ── This week ── -->
+  <text x="24" y="394" font-family="Caveat, monospace" font-size="16" fill="#84abce" font-weight="600">This Week I Spent My Time On</text>
+  <text x="24" y="416" font-family="Caveat, monospace" font-size="13" fill="#8b949e">Time Zone: America/Los_Angeles</text>
+
+  <text x="24" y="444" font-family="Caveat, monospace" font-size="15" fill="#c9d1d9">Languages</text>
+
+  <text x="24" y="468" font-family="Caveat, monospace" font-size="15" fill="#c9d1d9">JavaScript</text>
+  <text x="200" y="468" font-family="Caveat, monospace" font-size="15" fill="#8b949e">4 hrs 20 mins</text>
+  <rect x="340" y="458" width="260" height="8" rx="0" fill="#172f45"/>
+  <rect x="340" y="458" width="143" height="8" rx="0" fill="#90CAF9"/>
+  <text x="612" y="468" font-family="Caveat, monospace" font-size="15" fill="#8b949e">55.00 %</text>
+
+  <text x="24" y="492" font-family="Caveat, monospace" font-size="15" fill="#c9d1d9">TypeScript</text>
+  <text x="200" y="492" font-family="Caveat, monospace" font-size="15" fill="#8b949e">2 hrs 10 mins</text>
+  <rect x="340" y="482" width="260" height="8" rx="0" fill="#172f45"/>
+  <rect x="340" y="482" width="71" height="8" rx="0" fill="#90CAF9"/>
+  <text x="612" y="492" font-family="Caveat, monospace" font-size="15" fill="#8b949e">27.50 %</text>
+
+  <text x="24" y="516" font-family="Caveat, monospace" font-size="15" fill="#c9d1d9">CSS</text>
+  <text x="200" y="516" font-family="Caveat, monospace" font-size="15" fill="#8b949e">1 hr 25 mins</text>
+  <rect x="340" y="506" width="260" height="8" rx="0" fill="#172f45"/>
+  <rect x="340" y="506" width="46" height="8" rx="0" fill="#90CAF9"/>
+  <text x="612" y="516" font-family="Caveat, monospace" font-size="15" fill="#8b949e">17.50 %</text>
+
+  <text x="24" y="544" font-family="Caveat, monospace" font-size="15" fill="#c9d1d9">Editors</text>
+  <text x="24" y="568" font-family="Caveat, monospace" font-size="15" fill="#c9d1d9">VS Code</text>
+  <text x="200" y="568" font-family="Caveat, monospace" font-size="15" fill="#8b949e">7 hrs 55 mins</text>
+  <rect x="340" y="558" width="260" height="8" rx="0" fill="#172f45"/>
+  <rect x="340" y="558" width="260" height="8" rx="0" fill="#90CAF9"/>
+  <text x="612" y="568" font-family="Caveat, monospace" font-size="15" fill="#8b949e">100.0 %</text>
+
+  <line x1="24" y1="590" x2="656" y2="590" stroke="#21262d" stroke-width="0.5"/>
+
+  <!-- ── Most code in ── -->
+  <text x="24" y="614" font-family="Caveat, monospace" font-size="16" fill="#84abce" font-weight="600">I Mostly Code in CSS</text>
+
+  <text x="24" y="642" font-family="Caveat, monospace" font-size="15" fill="#90CAF9">CSS</text>
+  <text x="200" y="642" font-family="Caveat, monospace" font-size="15" fill="#8b949e">41 repos</text>
+  <rect x="340" y="632" width="260" height="8" rx="0" fill="#172f45"/>
+  <rect x="340" y="632" width="135" height="8" rx="0" fill="#90CAF9"/>
+  <text x="612" y="642" font-family="Caveat, monospace" font-size="15" fill="#8b949e">51.90 %</text>
+
+  <text x="24" y="666" font-family="Caveat, monospace" font-size="15" fill="#c9d1d9">JavaScript</text>
+  <text x="200" y="666" font-family="Caveat, monospace" font-size="15" fill="#8b949e">21 repos</text>
+  <rect x="340" y="656" width="260" height="8" rx="0" fill="#172f45"/>
+  <rect x="340" y="656" width="69" height="8" rx="0" fill="#90CAF9"/>
+  <text x="612" y="666" font-family="Caveat, monospace" font-size="15" fill="#8b949e">26.58 %</text>
+
+  <text x="24" y="690" font-family="Caveat, monospace" font-size="15" fill="#c9d1d9">Python</text>
+  <text x="200" y="690" font-family="Caveat, monospace" font-size="15" fill="#8b949e">7 repos</text>
+  <rect x="340" y="680" width="260" height="8" rx="0" fill="#172f45"/>
+  <rect x="340" y="680" width="23" height="8" rx="0" fill="#90CAF9"/>
+  <text x="612" y="690" font-family="Caveat, monospace" font-size="15" fill="#8b949e">08.86 %</text>
+
+  <text x="24" y="714" font-family="Caveat, monospace" font-size="15" fill="#c9d1d9">HTML</text>
+  <text x="200" y="714" font-family="Caveat, monospace" font-size="15" fill="#8b949e">5 repos</text>
+  <rect x="340" y="704" width="260" height="8" rx="0" fill="#172f45"/>
+  <rect x="340" y="704" width="16" height="8" rx="0" fill="#90CAF9"/>
+  <text x="612" y="714" font-family="Caveat, monospace" font-size="15" fill="#8b949e">06.33 %</text>
+
+  <text x="24" y="738" font-family="Caveat, monospace" font-size="15" fill="#c9d1d9">TypeScript</text>
+  <text x="200" y="738" font-family="Caveat, monospace" font-size="15" fill="#8b949e">4 repos</text>
+  <rect x="340" y="728" width="260" height="8" rx="0" fill="#172f45"/>
+  <rect x="340" y="728" width="13" height="8" rx="0" fill="#90CAF9"/>
+  <text x="612" y="738" font-family="Caveat, monospace" font-size="15" fill="#8b949e">05.06 %</text>
+</svg>
