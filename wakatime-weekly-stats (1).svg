@@ -1,0 +1,84 @@
+<svg width="100%" viewBox="0 0 680 280" role="img" xmlns="http://www.w3.org/2000/svg">
+  <title>Waka Stats – Weekly Activity</title>
+  <desc>WakaTime weekly coding activity stats</desc>
+  <defs>
+    <style>@import url('https://fonts.googleapis.com/css2?family=Caveat:wght@400;600');</style>
+  </defs>
+
+  <rect width="680" height="280" fill="#0d1117" rx="8"/>
+
+  <!-- Time Zone: Clock icon -->
+  <g transform="translate(0, 16) scale(0.1)">
+    <g transform="translate(72, 72)">
+      <circle r="72" fill="#84abce"/>
+      <line x1="0" y1="-64" x2="0" y2="-56" stroke="#fff" stroke-width="2.5" stroke-linecap="round"/>
+      <line x1="32" y1="-55.4" x2="28" y2="-48.5" stroke="#fff" stroke-width="1.5" stroke-linecap="round"/>
+      <line x1="55.4" y1="-32" x2="48.5" y2="-28" stroke="#fff" stroke-width="1.5" stroke-linecap="round"/>
+      <line x1="64" y1="0" x2="56" y2="0" stroke="#fff" stroke-width="2.5" stroke-linecap="round"/>
+      <line x1="55.4" y1="32" x2="48.5" y2="28" stroke="#fff" stroke-width="1.5" stroke-linecap="round"/>
+      <line x1="32" y1="55.4" x2="28" y2="48.5" stroke="#fff" stroke-width="1.5" stroke-linecap="round"/>
+      <line x1="0" y1="64" x2="0" y2="56" stroke="#fff" stroke-width="2.5" stroke-linecap="round"/>
+      <line x1="-32" y1="55.4" x2="-28" y2="48.5" stroke="#fff" stroke-width="1.5" stroke-linecap="round"/>
+      <line x1="-55.4" y1="32" x2="-48.5" y2="28" stroke="#fff" stroke-width="1.5" stroke-linecap="round"/>
+      <line x1="-64" y1="0" x2="-56" y2="0" stroke="#fff" stroke-width="2.5" stroke-linecap="round"/>
+      <line x1="-55.4" y1="-32" x2="-48.5" y2="-28" stroke="#fff" stroke-width="1.5" stroke-linecap="round"/>
+      <line x1="-32" y1="-55.4" x2="-28" y2="-48.5" stroke="#fff" stroke-width="1.5" stroke-linecap="round"/>
+      <line x1="0" y1="0" x2="0" y2="-44" stroke="#fff" stroke-width="3" stroke-linecap="round"/>
+      <line x1="0" y1="0" x2="44" y2="0" stroke="#fff" stroke-width="5" stroke-linecap="round"/>
+      <circle r="5" fill="#fff"/>
+    </g>
+  </g>
+  <text x="22" y="32" font-family="Caveat, monospace" font-size="16" fill="#84abce" font-weight="600">Time Zone: America/Los_Angeles</text>
+
+  <!-- Programming Languages: Code slash icon -->
+  <g transform="translate(0, 54) scale(0.095)">
+    <g transform="translate(72, 72)">
+      <rect x="-72" y="-72" width="144" height="144" rx="22" fill="#84abce"/>
+      <polyline points="-28,-20 -48,0 -28,20" fill="none" stroke="#fff" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"/>
+      <polyline points="28,-20 48,0 28,20" fill="none" stroke="#fff" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"/>
+      <line x1="10" y1="-30" x2="-10" y2="26" stroke="#fff" stroke-width="9" stroke-linecap="round"/>
+    </g>
+  </g>
+  <text x="22" y="70" font-family="Caveat, monospace" font-size="16" fill="#84abce" font-weight="600">Programming Languages:</text>
+  <text x="18" y="90" font-family="Caveat, monospace" font-size="15" fill="#8b949e">No Activity Tracked This Week</text>
+
+  <!-- Editors: Monitor icon -->
+  <g transform="translate(0, 114) scale(0.116)">
+    <g transform="translate(72, 72)">
+      <rect x="-68" y="-62" width="136" height="100" rx="10" fill="none" stroke="#84abce" stroke-width="6"/>
+      <rect x="-58" y="-52" width="116" height="82" rx="4" fill="#84abce" fill-opacity="0.15" stroke="#84abce" stroke-width="3"/>
+      <circle cx="-44" cy="-42" r="3.5" fill="#84abce"/>
+      <circle cx="-34" cy="-42" r="3.5" fill="#84abce"/>
+      <circle cx="-24" cy="-42" r="3.5" fill="#84abce"/>
+      <rect x="-12" y="-47" width="52" height="10" rx="3" fill="#84abce"/>
+      <line x1="-58" y1="-32" x2="58" y2="-32" stroke="#84abce" stroke-width="2.5"/>
+      <polyline points="-18,-8 -28,0 -18,8" fill="none" stroke="#84abce" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+      <polyline points="18,-8 28,0 18,8" fill="none" stroke="#84abce" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+      <line x1="6" y1="-12" x2="-6" y2="12" stroke="#84abce" stroke-width="4.5" stroke-linecap="round"/>
+      <rect x="-6" y="37" width="12" height="22" rx="0" fill="none" stroke="#84abce" stroke-width="3"/>
+      <rect x="-34" y="57" width="68" height="12" rx="6" fill="#84abce"/>
+    </g>
+  </g>
+  <text x="22" y="130" font-family="Caveat, monospace" font-size="16" fill="#84abce" font-weight="600">Editors:</text>
+  <text x="18" y="150" font-family="Caveat, monospace" font-size="15" fill="#8b949e">No Activity Tracked This Week</text>
+
+  <!-- Projects: Folder icon -->
+  <g transform="translate(0, 172) scale(0.075)">
+    <g transform="translate(110, 105)">
+      <path d="M-110,90 Q-110,105 -95,105 L95,105 Q110,105 110,90 L110,-60 Q110,-75 95,-75 L-5,-75 Q-14,-75 -20,-85 L-28,-95 Q-34,-105 -50,-105 L-95,-105 Q-110,-105 -110,-90 Z" fill="none" stroke="#84abce" stroke-width="9" stroke-linejoin="round"/>
+      <polyline points="-32,-6 -52,14 -32,34" fill="none" stroke="#84abce" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+      <polyline points="32,-6 52,14 32,34" fill="none" stroke="#84abce" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+      <line x1="16" y1="-18" x2="-16" y2="48" stroke="#84abce" stroke-width="13" stroke-linecap="round"/>
+    </g>
+  </g>
+  <text x="22" y="190" font-family="Caveat, monospace" font-size="16" fill="#84abce" font-weight="600">Projects:</text>
+  <text x="18" y="210" font-family="Caveat, monospace" font-size="15" fill="#8b949e">No Activity Tracked This Week</text>
+
+  <!-- Operating System: Laptop icon -->
+  <g transform="translate(0, 236) scale(0.028)">
+    <path d="M128 32C92.7 32 64 60.7 64 96l0 240 64 0 0-240 384 0 0 240 64 0 0-240c0-35.3-28.7-64-64-64L128 32zM19.2 384C8.6 384 0 392.6 0 403.2 0 445.6 34.4 480 76.8 480l486.4 0c42.4 0 76.8-34.4 76.8-76.8 0-10.6-8.6-19.2-19.2-19.2L19.2 384z" fill="#84abce"/>
+  </g>
+  <text x="22" y="250" font-family="Caveat, monospace" font-size="16" fill="#84abce" font-weight="600">Operating System:</text>
+  <text x="18" y="270" font-family="Caveat, monospace" font-size="15" fill="#8b949e">No Activity Tracked This Week</text>
+
+</svg>
