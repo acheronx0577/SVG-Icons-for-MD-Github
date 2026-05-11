@@ -6,7 +6,7 @@
       <path d="M9 18c-4.51 2-5-2-7-2"/>
     </svg>
     <text x="28" y="0" font-family='"Segoe UI", Ubuntu, sans-serif' font-size="14" font-weight="400" fill="#6E93B5">acheronx0577 /</text>
-    <text x="130" y="0" font-family='"Segoe UI", Ubuntu, sans-serif' font-size="16" font-weight="700" fill="#BDDFFF">ReadME</text>
+    <text x="130" y="0" font-family='"Segoe UI", Ubuntu, sans-serif' font-size="16" font-weight="700" fill="#BDDFFF">SVG-Icons-for-MD-Github</text>
   </g>
   <text x="24" y="76" font-family='"Segoe UI", Ubuntu, sans-serif' font-size="13" font-weight="400" fill="#BDDFFF">Custom SVG icons, badges, and</text>
   <text x="24" y="98" font-family='"Segoe UI", Ubuntu, sans-serif' font-size="13" font-weight="400" fill="#BDDFFF">README templates for GitHub profiles.</text>
@@ -15,7 +15,7 @@
     <circle cx="12" cy="12" r="10"/>
     <polyline points="12 6 12 12 16 14"/>
   </svg>
-  <text x="311" y="39" font-family='"Segoe UI", Ubuntu, sans-serif' font-size="12" font-weight="400" fill="#6E93B5">Last commit · 59 commits</text>
+  <text x="311" y="39" font-family='"Segoe UI", Ubuntu, sans-serif' font-size="12" font-weight="400" fill="#6E93B5">Last commit · 61 commits</text>
   <text x="285" y="76" font-family='"Segoe UI", Ubuntu, sans-serif' font-size="22" font-weight="700" fill="#BDDFFF">11 May 2026</text>
   <text x="285" y="100" font-family='"Segoe UI", Ubuntu, sans-serif' font-size="13" font-weight="400" fill="#6E93B5">0 min ago</text>
 </svg>
