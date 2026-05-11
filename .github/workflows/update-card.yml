@@ -21,7 +21,7 @@ jobs:
 
       - name: Update SVG with last commit time
         run: |
-          COMMIT_DATE=$(git log --format=%cI --invert-grep --grep="chore: update repo card timestamp" -1)
+          COMMIT_DATE=$(git log --format=%cI --perl-regexp --invert-grep --grep="chore: update repo card timestamp" -1)
           NOW=$(date -u +%s)
           COMMIT_TS=$(date -u -d "$COMMIT_DATE" +%s)
           DIFF=$(( (NOW - COMMIT_TS) / 60 ))
